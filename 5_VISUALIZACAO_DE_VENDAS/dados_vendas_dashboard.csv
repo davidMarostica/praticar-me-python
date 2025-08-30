@@ -1,0 +1,201 @@
+Produto,Categoria,Região,Quantidade,Preço,Data_Venda
+Notebook,Eletrônicos,Norte,0,50,2023-01-01
+Smartphone,Eletrônicos,Sul,2,100,2023-01-02
+Tablet,Eletrônicos,Leste,3,150,2023-01-03
+Monitor,Periféricos,Oeste,4,200,2023-01-04
+Teclado,Periféricos,Centro-Oeste,6,250,2023-01-05
+Mouse,Periféricos,Norte,8,300,2023-01-06
+Impressora,Periféricos,Sul,9,350,2023-01-07
+Smartwatch,Eletrônicos,Leste,10,400,2023-01-08
+Headset,Periféricos,Oeste,12,450,2023-01-09
+Cadeira Gamer,Móveis,Centro-Oeste,14,500,2023-01-10
+Notebook,Eletrônicos,Norte,15,50,2023-01-11
+Smartphone,Eletrônicos,Sul,16,100,2023-01-12
+Tablet,Eletrônicos,Leste,18,150,2023-01-13
+Monitor,Periféricos,Oeste,20,200,2023-01-14
+Teclado,Periféricos,Centro-Oeste,21,250,2023-01-15
+Mouse,Periféricos,Norte,22,300,2023-01-16
+Impressora,Periféricos,Sul,24,350,2023-01-17
+Smartwatch,Eletrônicos,Leste,26,400,2023-01-18
+Headset,Periféricos,Oeste,27,450,2023-01-19
+Cadeira Gamer,Móveis,Centro-Oeste,28,500,2023-01-20
+Notebook,Eletrônicos,Norte,30,50,2023-01-21
+Smartphone,Eletrônicos,Sul,32,100,2023-01-22
+Tablet,Eletrônicos,Leste,33,150,2023-01-23
+Monitor,Periféricos,Oeste,34,200,2023-01-24
+Teclado,Periféricos,Centro-Oeste,36,250,2023-01-25
+Mouse,Periféricos,Norte,38,300,2023-01-26
+Impressora,Periféricos,Sul,39,350,2023-01-27
+Smartwatch,Eletrônicos,Leste,40,400,2023-01-28
+Headset,Periféricos,Oeste,42,450,2023-01-29
+Cadeira Gamer,Móveis,Centro-Oeste,44,500,2023-01-30
+Notebook,Eletrônicos,Norte,45,50,2023-01-31
+Smartphone,Eletrônicos,Sul,46,100,2023-02-01
+Tablet,Eletrônicos,Leste,48,150,2023-02-02
+Monitor,Periféricos,Oeste,50,200,2023-02-03
+Teclado,Periféricos,Centro-Oeste,51,250,2023-02-04
+Mouse,Periféricos,Norte,52,300,2023-02-05
+Impressora,Periféricos,Sul,54,350,2023-02-06
+Smartwatch,Eletrônicos,Leste,56,400,2023-02-07
+Headset,Periféricos,Oeste,57,450,2023-02-08
+Cadeira Gamer,Móveis,Centro-Oeste,58,500,2023-02-09
+Notebook,Eletrônicos,Norte,60,50,2023-02-10
+Smartphone,Eletrônicos,Sul,62,100,2023-02-11
+Tablet,Eletrônicos,Leste,63,150,2023-02-12
+Monitor,Periféricos,Oeste,64,200,2023-02-13
+Teclado,Periféricos,Centro-Oeste,66,250,2023-02-14
+Mouse,Periféricos,Norte,68,300,2023-02-15
+Impressora,Periféricos,Sul,69,350,2023-02-16
+Smartwatch,Eletrônicos,Leste,70,400,2023-02-17
+Headset,Periféricos,Oeste,72,450,2023-02-18
+Cadeira Gamer,Móveis,Centro-Oeste,74,500,2023-02-19
+Notebook,Eletrônicos,Norte,75,50,2023-02-20
+Smartphone,Eletrônicos,Sul,76,100,2023-02-21
+Tablet,Eletrônicos,Leste,78,150,2023-02-22
+Monitor,Periféricos,Oeste,80,200,2023-02-23
+Teclado,Periféricos,Centro-Oeste,81,250,2023-02-24
+Mouse,Periféricos,Norte,82,300,2023-02-25
+Impressora,Periféricos,Sul,84,350,2023-02-26
+Smartwatch,Eletrônicos,Leste,86,400,2023-02-27
+Headset,Periféricos,Oeste,87,450,2023-02-28
+Cadeira Gamer,Móveis,Centro-Oeste,88,500,2023-03-01
+Notebook,Eletrônicos,Norte,90,50,2023-03-02
+Smartphone,Eletrônicos,Sul,92,100,2023-03-03
+Tablet,Eletrônicos,Leste,93,150,2023-03-04
+Monitor,Periféricos,Oeste,94,200,2023-03-05
+Teclado,Periféricos,Centro-Oeste,96,250,2023-03-06
+Mouse,Periféricos,Norte,98,300,2023-03-07
+Impressora,Periféricos,Sul,99,350,2023-03-08
+Smartwatch,Eletrônicos,Leste,0,400,2023-03-09
+Headset,Periféricos,Oeste,2,450,2023-03-10
+Cadeira Gamer,Móveis,Centro-Oeste,4,500,2023-03-11
+Notebook,Eletrônicos,Norte,5,50,2023-03-12
+Smartphone,Eletrônicos,Sul,6,100,2023-03-13
+Tablet,Eletrônicos,Leste,8,150,2023-03-14
+Monitor,Periféricos,Oeste,10,200,2023-03-15
+Teclado,Periféricos,Centro-Oeste,11,250,2023-03-16
+Mouse,Periféricos,Norte,12,300,2023-03-17
+Impressora,Periféricos,Sul,14,350,2023-03-18
+Smartwatch,Eletrônicos,Leste,16,400,2023-03-19
+Headset,Periféricos,Oeste,17,450,2023-03-20
+Cadeira Gamer,Móveis,Centro-Oeste,18,500,2023-03-21
+Notebook,Eletrônicos,Norte,20,50,2023-03-22
+Smartphone,Eletrônicos,Sul,22,100,2023-03-23
+Tablet,Eletrônicos,Leste,23,150,2023-03-24
+Monitor,Periféricos,Oeste,24,200,2023-03-25
+Teclado,Periféricos,Centro-Oeste,26,250,2023-03-26
+Mouse,Periféricos,Norte,28,300,2023-03-27
+Impressora,Periféricos,Sul,29,350,2023-03-28
+Smartwatch,Eletrônicos,Leste,30,400,2023-03-29
+Headset,Periféricos,Oeste,32,450,2023-03-30
+Cadeira Gamer,Móveis,Centro-Oeste,34,500,2023-03-31
+Notebook,Eletrônicos,Norte,35,50,2023-04-01
+Smartphone,Eletrônicos,Sul,36,100,2023-04-02
+Tablet,Eletrônicos,Leste,38,150,2023-04-03
+Monitor,Periféricos,Oeste,40,200,2023-04-04
+Teclado,Periféricos,Centro-Oeste,41,250,2023-04-05
+Mouse,Periféricos,Norte,42,300,2023-04-06
+Impressora,Periféricos,Sul,44,350,2023-04-07
+Smartwatch,Eletrônicos,Leste,46,400,2023-04-08
+Headset,Periféricos,Oeste,47,450,2023-04-09
+Cadeira Gamer,Móveis,Centro-Oeste,48,500,2023-04-10
+Notebook,Eletrônicos,Norte,50,50,2023-04-11
+Smartphone,Eletrônicos,Sul,52,100,2023-04-12
+Tablet,Eletrônicos,Leste,53,150,2023-04-13
+Monitor,Periféricos,Oeste,54,200,2023-04-14
+Teclado,Periféricos,Centro-Oeste,56,250,2023-04-15
+Mouse,Periféricos,Norte,58,300,2023-04-16
+Impressora,Periféricos,Sul,59,350,2023-04-17
+Smartwatch,Eletrônicos,Leste,60,400,2023-04-18
+Headset,Periféricos,Oeste,62,450,2023-04-19
+Cadeira Gamer,Móveis,Centro-Oeste,64,500,2023-04-20
+Notebook,Eletrônicos,Norte,65,50,2023-04-21
+Smartphone,Eletrônicos,Sul,66,100,2023-04-22
+Tablet,Eletrônicos,Leste,68,150,2023-04-23
+Monitor,Periféricos,Oeste,70,200,2023-04-24
+Teclado,Periféricos,Centro-Oeste,71,250,2023-04-25
+Mouse,Periféricos,Norte,72,300,2023-04-26
+Impressora,Periféricos,Sul,74,350,2023-04-27
+Smartwatch,Eletrônicos,Leste,76,400,2023-04-28
+Headset,Periféricos,Oeste,77,450,2023-04-29
+Cadeira Gamer,Móveis,Centro-Oeste,78,500,2023-04-30
+Notebook,Eletrônicos,Norte,80,50,2023-05-01
+Smartphone,Eletrônicos,Sul,82,100,2023-05-02
+Tablet,Eletrônicos,Leste,83,150,2023-05-03
+Monitor,Periféricos,Oeste,84,200,2023-05-04
+Teclado,Periféricos,Centro-Oeste,86,250,2023-05-05
+Mouse,Periféricos,Norte,88,300,2023-05-06
+Impressora,Periféricos,Sul,89,350,2023-05-07
+Smartwatch,Eletrônicos,Leste,90,400,2023-05-08
+Headset,Periféricos,Oeste,92,450,2023-05-09
+Cadeira Gamer,Móveis,Centro-Oeste,94,500,2023-05-10
+Notebook,Eletrônicos,Norte,95,50,2023-05-11
+Smartphone,Eletrônicos,Sul,96,100,2023-05-12
+Tablet,Eletrônicos,Leste,98,150,2023-05-13
+Monitor,Periféricos,Oeste,100,200,2023-05-14
+Teclado,Periféricos,Centro-Oeste,1,250,2023-05-15
+Mouse,Periféricos,Norte,2,300,2023-05-16
+Impressora,Periféricos,Sul,4,350,2023-05-17
+Smartwatch,Eletrônicos,Leste,6,400,2023-05-18
+Headset,Periféricos,Oeste,7,450,2023-05-19
+Cadeira Gamer,Móveis,Centro-Oeste,8,500,2023-05-20
+Notebook,Eletrônicos,Norte,10,50,2023-05-21
+Smartphone,Eletrônicos,Sul,12,100,2023-05-22
+Tablet,Eletrônicos,Leste,13,150,2023-05-23
+Monitor,Periféricos,Oeste,14,200,2023-05-24
+Teclado,Periféricos,Centro-Oeste,16,250,2023-05-25
+Mouse,Periféricos,Norte,18,300,2023-05-26
+Impressora,Periféricos,Sul,19,350,2023-05-27
+Smartwatch,Eletrônicos,Leste,20,400,2023-05-28
+Headset,Periféricos,Oeste,22,450,2023-05-29
+Cadeira Gamer,Móveis,Centro-Oeste,24,500,2023-05-30
+Notebook,Eletrônicos,Norte,25,50,2023-05-31
+Smartphone,Eletrônicos,Sul,26,100,2023-06-01
+Tablet,Eletrônicos,Leste,28,150,2023-06-02
+Monitor,Periféricos,Oeste,30,200,2023-06-03
+Teclado,Periféricos,Centro-Oeste,31,250,2023-06-04
+Mouse,Periféricos,Norte,32,300,2023-06-05
+Impressora,Periféricos,Sul,34,350,2023-06-06
+Smartwatch,Eletrônicos,Leste,36,400,2023-06-07
+Headset,Periféricos,Oeste,37,450,2023-06-08
+Cadeira Gamer,Móveis,Centro-Oeste,38,500,2023-06-09
+Notebook,Eletrônicos,Norte,40,50,2023-06-10
+Smartphone,Eletrônicos,Sul,42,100,2023-06-11
+Tablet,Eletrônicos,Leste,43,150,2023-06-12
+Monitor,Periféricos,Oeste,44,200,2023-06-13
+Teclado,Periféricos,Centro-Oeste,46,250,2023-06-14
+Mouse,Periféricos,Norte,48,300,2023-06-15
+Impressora,Periféricos,Sul,49,350,2023-06-16
+Smartwatch,Eletrônicos,Leste,50,400,2023-06-17
+Headset,Periféricos,Oeste,52,450,2023-06-18
+Cadeira Gamer,Móveis,Centro-Oeste,54,500,2023-06-19
+Notebook,Eletrônicos,Norte,55,50,2023-06-20
+Smartphone,Eletrônicos,Sul,56,100,2023-06-21
+Tablet,Eletrônicos,Leste,58,150,2023-06-22
+Monitor,Periféricos,Oeste,60,200,2023-06-23
+Teclado,Periféricos,Centro-Oeste,61,250,2023-06-24
+Mouse,Periféricos,Norte,62,300,2023-06-25
+Impressora,Periféricos,Sul,64,350,2023-06-26
+Smartwatch,Eletrônicos,Leste,66,400,2023-06-27
+Headset,Periféricos,Oeste,67,450,2023-06-28
+Cadeira Gamer,Móveis,Centro-Oeste,68,500,2023-06-29
+Notebook,Eletrônicos,Norte,70,50,2023-06-30
+Smartphone,Eletrônicos,Sul,72,100,2023-07-01
+Tablet,Eletrônicos,Leste,73,150,2023-07-02
+Monitor,Periféricos,Oeste,74,200,2023-07-03
+Teclado,Periféricos,Centro-Oeste,76,250,2023-07-04
+Mouse,Periféricos,Norte,78,300,2023-07-05
+Impressora,Periféricos,Sul,79,350,2023-07-06
+Smartwatch,Eletrônicos,Leste,80,400,2023-07-07
+Headset,Periféricos,Oeste,82,450,2023-07-08
+Cadeira Gamer,Móveis,Centro-Oeste,84,500,2023-07-09
+Notebook,Eletrônicos,Norte,85,50,2023-07-10
+Smartphone,Eletrônicos,Sul,86,100,2023-07-11
+Tablet,Eletrônicos,Leste,88,150,2023-07-12
+Monitor,Periféricos,Oeste,90,200,2023-07-13
+Teclado,Periféricos,Centro-Oeste,91,250,2023-07-14
+Mouse,Periféricos,Norte,92,300,2023-07-15
+Impressora,Periféricos,Sul,94,350,2023-07-16
+Smartwatch,Eletrônicos,Leste,96,400,2023-07-17
+Headset,Periféricos,Oeste,97,450,2023-07-18
+Cadeira Gamer,Móveis,Centro-Oeste,98,500,2023-07-19
